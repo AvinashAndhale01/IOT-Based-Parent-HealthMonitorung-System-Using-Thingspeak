@@ -16,6 +16,4 @@
 - then code both devices to the same wifi so they get connected locally on a device
 - Run yarn start or npm run start to try it out.
 
-## 📝 How Arduino work
 
-- here
